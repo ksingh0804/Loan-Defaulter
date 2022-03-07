@@ -1,1 +1,2 @@
 # Loan-Defaulter
+#### The aim of this project is to provide insight on the best use of EDA in a real world scenario. In this project, apart from incorporating the strategies that we have learned in the EDA module, we will also gain a simple understanding of risk analytics in banking and financial services and consider how data is used to minimize the risk of losing money when lending to customers.
